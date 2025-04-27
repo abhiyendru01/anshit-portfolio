@@ -52,7 +52,7 @@ const Contact = () => {
         </a>
         
         <a 
-          href="https://github.com/anshitrajyadav" 
+          href="https://github.com/anshitraj" 
           target="_blank" 
           rel="noopener noreferrer"
           className="flex items-center gap-2 text-sm text-muted-foreground hover:text-neon transition-colors"
@@ -62,7 +62,7 @@ const Contact = () => {
         </a>
         
         <a 
-          href="https://linkedin.com/in/anshitrayadav" 
+          href="https://linkedin.com/in/anshitraj" 
           target="_blank" 
           rel="noopener noreferrer"
           className="flex items-center gap-2 text-sm text-muted-foreground hover:text-neon transition-colors"

@@ -84,7 +84,7 @@ const Hero = () => {
               
               <div className="flex space-x-3 ml-auto md:ml-4">
                 <a 
-                  href="https://github.com/anshitrajyadav" 
+                  href="https://github.com/anshitraj" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="p-2 rounded-full border border-border/30 hover:border-neon hover:text-neon transition-all duration-300 hover:scale-105"
@@ -93,7 +93,7 @@ const Hero = () => {
                   <span className="sr-only">GitHub</span>
                 </a>
                 <a 
-                  href="https://linkedin.com/in/anshitrajyadav" 
+                  href="https://linkedin.com/in/anshitraj" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="p-2 rounded-full border border-border/30 hover:border-neon hover:text-neon transition-all duration-300 hover:scale-105"

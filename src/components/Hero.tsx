@@ -49,7 +49,7 @@ const Hero = () => {
             <div className="mt-8 flex flex-wrap gap-4 justify-center md:justify-start items-center">
               <Button 
                 size="lg"
-                className="bg-neon hover:bg-neon/80 text-black font-medium group"
+                className="bg-neon hover:bg-neon/80 text-white font-medium group"
                 asChild
               >
                 <a href="#contact" className="flex items-center space-x-2">
